@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **frontend / backend / deployment**
 
-- 📫 How to reach me **mohdanas47369@gmail.com**
+- 📫 How to reach me **mohdanas47369@gmail.com** 
 
 - 📄 You can check my **LinkedIn** for more details about work experience.
 
