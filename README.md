@@ -1,7 +1,11 @@
-<h1 align="center">Hello There 👋, I'm Mohd Anas</h1>
-<h3 align="center">A Full Stack Engineer</h3>
+# Hello There 👋, I'm Mohd Anas  
 
-<p>A Full Stack Engineer skilled in front-end, back-end, and deployment technologies, with proficiency in various programming languages and database management. Proven track record in developing innovative web applications and solutions. Strong problem-solving abilities, adept at collaborating with cross-functional teams, and passionate about staying updated on industry trends and technologies.</p?
+## A Full Stack Engineer  
+
+Experienced Full Stack Engineer skilled in front-end, back-end, and deployment technologies, with proficiency in various programming languages and database management.  
+Proven track record in developing innovative web applications and solutions.  
+  
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas4736" alt="anas4736" /></a> </p>
 
