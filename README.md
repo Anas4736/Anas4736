@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **mohdanas47369@gmail.com** 
 
-- 📄 You can check my **LinkedIn** for more details about work experience.
+- 📄 You can check my [LinkedIn](https://www.linkedin.com/in/mohd-anas-120bb22a3/) for more details about work experience.
+
 
 - ⚡ Fun fact **I like anything relates to Technology**
 
