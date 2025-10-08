@@ -1,6 +1,6 @@
 # Hello There 👋, I'm Mohd Anas  
 
-## A Full Stack Engineer    
+## A Full Stack Engineer  
 
 Full Stack Engineer skilled in front-end, back-end, and deployment technologies, with proficiency in various  
 programming languages and database management. Proven track record in developing innovative web applications and solutions.  
